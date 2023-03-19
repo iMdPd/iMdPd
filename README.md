@@ -1,10 +1,9 @@
 <div align="center">
 
-<h1 align="center">Hello there <img width="30" src="./docs/waving.gif">, I'm Mariusz</h1>
+<h1 align="center"> Hello there <img width="30" src="./docs/waving.gif"> I'm Mariusz </h1>
 
 <h4 align="center">I'm currently working as an Investment Leader in the construction industry. <br /> I started the bootcamp programming course in November 2022.
 
-<br />
 <br />
 
 ![](https://komarev.com/ghpvc/?username=your-github-iMdPd&style=for-the-badge&color=lightgray)
@@ -47,7 +46,7 @@
 
 ```yaml
 const aboutMe = {
-  first_name: "Mariusz ",
+  first_name: "Mariusz",
 
   last_name: "Politowicz",
 
@@ -155,7 +154,9 @@ const aboutMe = {
   </div>    
 </details>
 
-##
 
-Credits: [iMdPd](https://github.com/iMdPd) <br />
-Last Edited on: 19/03/2023
+<a href="https://github.com/iMdPd">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&animation=twinkling&fontSize=20&height=150&section=footer&text=Credits:%20iMdPd,%20Last%20Edited:%2019/03/2023&fontAlignY=90)
+
+</a>
