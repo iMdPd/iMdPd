@@ -5,14 +5,13 @@
 <h4 align="center">I'm currently working as an Investment Leader in the construction industry. <br /> I started the bootcamp programming course in November 2022.
 
 <br />
+<br />
 
 ![](https://komarev.com/ghpvc/?username=your-github-iMdPd&style=for-the-badge&color=lightgray)
 
 ![](https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif)
 
 </div>
-
-<h2></h2>
 
 <details>
   <summary>📱 Contact me</summary>
@@ -136,7 +135,6 @@ const aboutMe = {
 };
 ```
 
-
  </samp>
 </div>
 </details>
@@ -161,4 +159,3 @@ const aboutMe = {
 
 Credits: [iMdPd](https://github.com/iMdPd) <br />
 Last Edited on: 19/03/2023
-
