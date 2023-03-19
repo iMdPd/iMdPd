@@ -44,7 +44,7 @@
 <samp>
 <h2 align="center">More details about me:</h2>
 
-```yaml
+```js
 const aboutMe = {
   first_name: "Mariusz",
 
