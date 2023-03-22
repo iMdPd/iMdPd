@@ -105,7 +105,7 @@ const aboutMe = {
     polish: "native",
   },
 
-  currently_learning: ["React", "Redux", "Ruby"],
+  currently_learning: ["React", "Redux", "RubyOnRails"],
 
   hobbies: ["Gravel", "Bjj", "Photography", "Travel", "Hiking"],
 
