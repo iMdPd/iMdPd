@@ -66,7 +66,7 @@ const aboutMe = {
       return age;
     }
 
-    const birthDate = new Date(1994, 9, 16);
+    const birthDate = new Date(1994, 8, 16);
     const ageValue = age(birthDate);
 
     return ageValue;
@@ -95,6 +95,7 @@ const aboutMe = {
     "Handlebars",
     "React",
     "Redux",
+    "Jest",
     "Chrome_DevTools",
     "GIT",
     "RWD",
