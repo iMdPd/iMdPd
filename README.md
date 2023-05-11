@@ -51,7 +51,7 @@ const aboutMe = {
   last_name: "Politowicz",
 
   full_name: function () {
-    return this.first_name + " " + this.last_name;
+    return `${this.first_name} ${this.last_name}`;
   },
 
   age: function myAge() {
@@ -106,7 +106,7 @@ const aboutMe = {
     polish: "native",
   },
 
-  currently_learning: ["React", "Redux", "RubyOnRails"],
+  currently_learning: ["Node", "Express" "RubyOnRails"],
 
   hobbies: ["Gravel", "Bjj", "Photography", "Travel", "Hiking"],
 
@@ -154,7 +154,6 @@ const aboutMe = {
 
   </div>    
 </details>
-
 
 <a href="https://github.com/iMdPd">
 
