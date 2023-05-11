@@ -146,9 +146,9 @@ const aboutMe = {
   <samp>
     <h2 align="center">My GitHub Profile Stats</h2>
 
-![iMdPd's GitHub stats](https://github-readme-stats.vercel.app/api?username=iMdPd&show_icons=true&theme=dark&bg_color=00000000)
+[![wakatime](https://wakatime.com/badge/user/df72a2a6-6bf3-4c98-af1d-ca954e289a1f.svg)](https://wakatime.com/@df72a2a6-6bf3-4c98-af1d-ca954e289a1f)
 
-[![iMdPd's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=df72a2a6-6bf3-4c98-af1d-ca954e289a1f&theme=dark&bg_color=00000000)](https://github.com/df72a2a6-6bf3-4c98-af1d-ca954e289a1f/github-readme-stats)
+![iMdPd's GitHub stats](https://github-readme-stats.vercel.app/api?username=iMdPd&show_icons=true&theme=dark&bg_color=00000000)
 
 ![iMdPd's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iMdPd&theme=dark&bg_color=00000000)
 
