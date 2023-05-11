@@ -99,6 +99,7 @@ const aboutMe = {
     "Chrome_DevTools",
     "GIT",
     "RWD",
+    "Postman",
   ],
 
   languages: {
