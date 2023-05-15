@@ -100,6 +100,7 @@ const aboutMe = {
     "GIT",
     "RWD",
     "Postman",
+    "Jira",
   ],
 
   languages: {
