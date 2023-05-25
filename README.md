@@ -99,8 +99,10 @@ const aboutMe = {
     "Chrome_DevTools",
     "GIT",
     "RWD",
-    "Postman",
     "Jira",
+    "Postman",
+    "Node.js",
+    "Express"
   ],
 
   languages: {
@@ -108,7 +110,7 @@ const aboutMe = {
     polish: "native",
   },
 
-  currently_learning: ["Node", "Express" "RubyOnRails"],
+  currently_learning: [, "MongoDB", "RubyOnRails"],
 
   hobbies: ["Gravel", "Bjj", "Photography", "Travel", "Hiking"],
 
