@@ -102,7 +102,7 @@ const aboutMe = {
     "Jira",
     "Postman",
     "Node.js",
-    "Express"
+    "Express",
   ],
 
   languages: {
@@ -110,7 +110,7 @@ const aboutMe = {
     polish: "native",
   },
 
-  currently_learning: [, "MongoDB", "RubyOnRails"],
+  currently_learning: ["MongoDB", "Mongoose", "RubyOnRails"],
 
   hobbies: ["Gravel", "Bjj", "Photography", "Travel", "Hiking"],
 
@@ -161,6 +161,6 @@ const aboutMe = {
 
 <a href="https://github.com/iMdPd">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&animation=twinkling&fontSize=20&height=150&section=footer&text=Credits:%20iMdPd,%20Last%20Edited:%2019/03/2023&fontAlignY=90)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&animation=twinkling&fontSize=20&height=150&section=footer&text=Credits:%20iMdPd,%20Last%20Edited:%2028/05/2023&fontAlignY=90)
 
 </a>
