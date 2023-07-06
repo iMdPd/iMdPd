@@ -83,6 +83,11 @@ const aboutMe = {
     industry: "Construction",
   },
 
+  internship: {
+    company: "Selleo",
+    industry: "Frontend",
+  },
+
   hireable: true,
 
   skills: [
