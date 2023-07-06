@@ -96,6 +96,7 @@ const aboutMe = {
     "SASS",
     "Bootstrap",
     "ANTD",
+    "Tailwind",
     "JavaScript",
     "Handlebars",
     "React",
